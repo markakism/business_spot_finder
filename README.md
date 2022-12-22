@@ -13,7 +13,7 @@ Based on the user's chosen shop category, the product provides a proposal of the
 
 ## How did we do it
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 cccccccccccccccccccccccccccccccccccccccc
 
