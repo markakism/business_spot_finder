@@ -15,7 +15,7 @@ Based on the user's chosen shop category, the product provides a proposal of the
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-cccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccc
 
 ## Interface
 
